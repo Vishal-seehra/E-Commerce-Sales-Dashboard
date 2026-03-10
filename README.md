@@ -86,3 +86,20 @@ Implemented analytical features including:
 - Business Intelligence Dashboarding
 - Data Visualization
 - Analytical Insight Generation
+
+---
+
+## 📂 Project Structure
+
+E-Commercerce Sales Dashboard
+│
+├── dataset
+│   └── cleaned_dataset1.csv
+│
+├── SQL_queries
+│   └── SQL-analysis.sql
+│
+├── Power BI
+│   └── Sales-analysis.pbix
+│
+└── README.md
