@@ -91,6 +91,8 @@ Implemented analytical features including:
 
 ## 📂 Project Structure
 
+```
+
 E-Commercerce Sales Dashboard
 │
 ├── dataset
@@ -103,3 +105,5 @@ E-Commercerce Sales Dashboard
 │   └── Sales-analysis.pbix
 │
 └── README.md
+```
+
